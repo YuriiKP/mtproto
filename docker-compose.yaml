@@ -4,7 +4,7 @@ services:
     container_name: mtproto-proxy
     restart: unless-stopped
     ports:
-      - "993:993"
+      - "993:443"
     volumes:
       - proxy-config:/data
     environment:
