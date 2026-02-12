@@ -12,4 +12,6 @@ docker run -d \
 
 ### Логи
 В логах можно найти ссылки на подключение
-```docker logs mtproto-proxy```
+```
+docker logs mtproto-proxy
+```
