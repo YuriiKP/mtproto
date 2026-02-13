@@ -1,6 +1,7 @@
 # mtproto
 
 ## Официальный MTProxy
+Ссылка на официальный репозиторий: https://github.com/TelegramMessenger/MTProxy
 
 ### Установка и запуск без docker compose
 ```
